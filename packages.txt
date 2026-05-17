@@ -4,3 +4,6 @@ dirb
 hydra
 gitleaks
 trufflehog
+less
+vim
+nano
