@@ -1,0 +1,6 @@
+nmap
+sqlmap
+dirb
+hydra
+gitleaks
+trufflehog
